@@ -5,6 +5,30 @@ body {
 	text-align: center;
 }
 
+h1 {
+	color: white;
+}
+
+h2 {
+	text-align: left;
+	margin-left: 4%;
+	margin-right: 4%;
+	border-bottom: 4px ridge white;
+}
+
+#details {
+	color: pink;
+	text-align: left;
+	margin-left: 6%;
+	margin-right: 6%;
+}
+
+img {
+	width: 50%;
+	height 50%;
+	object-fit: cover;
+}
+
 a {
 	color: lime;
 }
