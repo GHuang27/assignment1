@@ -1,8 +1,12 @@
 body {
 	font-family: Arial;
 	color: white;
-	background-color: black;
+	background-color: rgba(77,77,77);
 	text-align: center;
+}
+
+p {
+	color: rgba(200,200,200);
 }
 
 a {
